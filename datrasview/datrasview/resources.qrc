@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/datrasview" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
